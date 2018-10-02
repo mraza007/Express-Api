@@ -10,9 +10,9 @@ In this I will be building A simple todo api.
 - **DELETE** `api/todos/todoId` Delete a Todo
 
 ## MongoDB Schema (Structing Todo Data)
-- name (type:string)
-- complete (type:Boolean)
-- createdDate (type:Date)
+- name `(type:string)`
+- complete `(type:Boolean)`
+- createdDate `(type:Date)`
 
 ## Getting Started with installation
 - Make sure we have node installed.
